@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-[LinkedIn](https://linkedin.com/in/kishorekancherla) &emsp;|&emsp; [Resume](https://github.com/kishore881/resume)
+[LinkedIn](https://linkedin.com/in/kishore881) &emsp;|&emsp; [Resume](https://github.com/kishore881/resume)

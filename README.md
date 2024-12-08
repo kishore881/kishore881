@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi 👋 I'm Kishore!
+
+I'm a Software Engineer and I love writing code and watching it come to life.
+
+I’m always eager to read and learn new things. While I have a few books in the queue, I mostly stay updated by reading articles and newsletters. One I highly recommend is [TLDR](https://tldr.tech/) - a Daily Tech Newsletter.
 
 <!--
 **kishore881/kishore881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+[LinkedIn](https://linkedin.com/in/kishorekancherla) &emsp;|&emsp; [Resume](https://github.com/kishore881/resume)
